@@ -2,8 +2,8 @@
 Some of the learning resources I found really helpful and well made.
 
 
-HTML / CSS
+**HTML / CSS**
 - Gridbox by WesBos
 
-JS
+**JS**
 - Javascript DOM tutorial by The Net Ninja
