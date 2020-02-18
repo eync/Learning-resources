@@ -10,7 +10,7 @@ Some of the learning resources I found really helpful and well made.
 **JS**
 - Javascript DOM tutorial by The Net Ninja
 - W3schools DOM references https://www.w3schools.com/jsref/dom_obj_event.asp
-
+- Good explanations: https://www.youtube.com/watch?v=oxoFVqetl1E
 
 **Challenges**
 - https://www.codewars.com/
