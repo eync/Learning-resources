@@ -3,7 +3,7 @@ Some of the learning resources I found really helpful and well made.
 
 
 **HTML / CSS**
-- Gridbox by WesBos
+- Gridbox by WesBos: https://cssgrid.io/
 
 
 
