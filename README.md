@@ -17,6 +17,7 @@ Some of the learning resources I found really helpful and well made.
   - https://stackoverflow.com/a/24900924
 - Difference's between Var, Let and Const
   - https://dzone.com/articles/javascript-difference-between-var-let-and-const-ke
+- https://github.com/mbeaudru/modern-js-cheatsheet
 
 **Challenges**
 - https://www.codewars.com/
