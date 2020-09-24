@@ -6,6 +6,8 @@ Some of the learning resources I found really helpful and well made.
 - Gridbox by WesBos: https://cssgrid.io/
 - Flexbox by WesBos: https://flexbox.io/
 
+- UI examples: https://codepen.io/nicolaspavlotsky/pen/ZJPXgy
+
 
 
 **JS**
