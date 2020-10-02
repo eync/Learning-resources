@@ -20,6 +20,11 @@ Some of the learning resources I found really helpful and well made.
 -   [The modern javascript tutorial](https://javascript.info/)
 -   [Javascript DOM](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 
+  **TS**
+-For beginners
+  -https://www.youtube.com/watch?v=BwuLxPH8IDs
+- https://github.com/microsoft/TypeScript
+
 **Challenges**
 
 -   [Codewars](https://www.codewars.com/)
