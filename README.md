@@ -19,8 +19,9 @@ Some of the learning resources I found really helpful and well made.
 -   [Modern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 -   [The modern javascript tutorial](https://javascript.info/)
 -   [Javascript DOM](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
+-   [Freecodecamp Interactive Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
-  **TS**
+**TS**
 
    For beginners
 -   https://www.youtube.com/watch?v=BwuLxPH8IDs
@@ -30,3 +31,5 @@ Some of the learning resources I found really helpful and well made.
 
 -   [Codewars](https://www.codewars.com/)
 -   [Sharpen](https://sharpen.design/)
+-   [Leetcode](https://www.leetcode.com)
+-   [HackerRank](https://www.hackerrank.com/)
