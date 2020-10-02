@@ -27,3 +27,6 @@ Some of the learning resources I found really helpful and well made.
 **Challenges**
 - https://www.codewars.com/
 - https://sharpen.design/
+- https://codingbat.com/java
+- https://www.hackerrank.com/dashboard
+- https://www.codingame.com/start
