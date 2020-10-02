@@ -8,6 +8,7 @@ Some of the learning resources I found really helpful and well made.
 -   [Flexbox by WesBos](https://flexbox.io/)
 -   [UI examples](https://codepen.io/nicolaspavlotsky/pen/ZJPXgy)
 -   [HTML Basic](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
+-   [HTML & CSS](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - Traversy Media
 
 **JS**
 
@@ -25,6 +26,10 @@ Some of the learning resources I found really helpful and well made.
    For beginners
 -   https://www.youtube.com/watch?v=BwuLxPH8IDs
 -   https://github.com/microsoft/TypeScript
+
+  **React**
+-   [React projects](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&ab_channel=TraversyMedia) - Traversy Media
+-   [ReactJS + Redux Basics](https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_) - Academind
 
 **Challenges**
 
