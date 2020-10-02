@@ -24,6 +24,11 @@ Some of the learning resources I found really helpful and well made.
 - The modern javascript tutorial
   - https://javascript.info/
 
+  **TS**
+-For beginners
+  -https://www.youtube.com/watch?v=BwuLxPH8IDs
+- https://github.com/microsoft/TypeScript
+
 **Challenges**
 - https://www.codewars.com/
 - https://sharpen.design/
