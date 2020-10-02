@@ -8,7 +8,8 @@ Some of the learning resources I found really helpful and well made.
 
 - UI examples: https://codepen.io/nicolaspavlotsky/pen/ZJPXgy
 
-
+- Flexbox game: https://flexboxfroggy.com/
+- Gridbox game: https://cssgridgarden.com/
 
 **JS**
 - Javascript DOM tutorial by The Net Ninja
