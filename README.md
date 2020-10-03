@@ -9,6 +9,8 @@ Some of the learning resources I found really helpful and well made.
 -   [UI examples](https://codepen.io/nicolaspavlotsky/pen/ZJPXgy)
 -   [HTML Basic](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
 -   [HTML & CSS](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - Traversy Media
+-   [Flexbox game](https://flexboxfroggy.com/)
+-   [Gridbox game](https://cssgridgarden.com/)
 
 **JS**
 
