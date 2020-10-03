@@ -38,3 +38,5 @@ Some of the learning resources I found really helpful and well made.
 -   [Sharpen](https://sharpen.design/)
 -   [Leetcode](https://www.leetcode.com)
 -   [HackerRank](https://www.hackerrank.com/)
+-	[CodingBat](https://codingbat.com/java)
+-	[CodinGame](https://www.codingame.com/start)
