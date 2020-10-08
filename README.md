@@ -31,6 +31,7 @@ Well made learning resources and articles.
 -   https://github.com/microsoft/TypeScript
 
   **React**
+  
 -   [React projects](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&ab_channel=TraversyMedia) - Traversy Media
 -   [ReactJS + Redux Basics](https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_) - Academind
 
@@ -42,3 +43,6 @@ Well made learning resources and articles.
 -   [HackerRank](https://www.hackerrank.com/)
 -	[CodingBat](https://codingbat.com/java)
 -	[CodinGame](https://www.codingame.com/start)
+
+**Tools**
+-   [Hoppscotch - API request builder](https://hoppscotch.io/)
