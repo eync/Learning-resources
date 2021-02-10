@@ -1,6 +1,8 @@
 # Learning-resources
 
 Well made learning resources and articles.
+** DESIGN **
+- [How to Apply a Color Palette to Your Design](https://www.youtube.com/watch?v=eXcKOqviLE0)
 
 **HTML / CSS**
 
