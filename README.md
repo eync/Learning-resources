@@ -38,6 +38,7 @@ Well made learning resources and articles.
   
 -   [React projects](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&ab_channel=TraversyMedia) - Traversy Media
 -   [ReactJS + Redux Basics](https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_) - Academind
+-   [Bulletproof React guide](https://github.com/alan2207/bulletproof-react)
 
 **Database**
 
