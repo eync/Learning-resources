@@ -14,7 +14,8 @@ Well made learning resources and articles.
 -   [HTML & CSS](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - Traversy Media
 -   [Flexbox game](https://flexboxfroggy.com/)
 -   [Gridbox game](https://cssgridgarden.com/)
--   [BEM better naming system](https://github.com/GattoDiMaestro/Learning-resources.git)
+-   [GPS CSS methodology (naming system)](https://github.com/jescalan/gps)
+-   [BEM CSS basics (naming system)](https://www.smashingmagazine.com/2018/06/bem-for-beginners/#the-basics-of-bem)
 
 **JS**
 
