@@ -62,3 +62,4 @@ Well made learning resources and articles.
 
 **Tools**
 -   [Hoppscotch - API request builder](https://hoppscotch.io/)
+-   [Firefox Web Developer tools](https://developer.mozilla.org/en-US/docs/Tools)
