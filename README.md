@@ -16,7 +16,6 @@ Well made learning resources and articles.
 -   [Gridbox by WesBos](https://cssgrid.io/)
 -   [Flexbox by WesBos](https://flexbox.io/)
 -   [UI examples](https://codepen.io/nicolaspavlotsky/pen/ZJPXgy)
--   [HTML Basic](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
 -   [HTML & CSS](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - Traversy Media
 -   [Flexbox game](https://flexboxfroggy.com/)
 -   [Gridbox game](https://cssgridgarden.com/)
@@ -59,6 +58,7 @@ Well made learning resources and articles.
 -   [HackerRank](https://www.hackerrank.com/)
 -	[CodingBat](https://codingbat.com/java)
 -	[CodinGame](https://www.codingame.com/start)
+-  [Learn to use devtools in Firefox](http://devtoolschallenger.com/)
 
 **Tools**
 -   [Hoppscotch - API request builder](https://hoppscotch.io/)
