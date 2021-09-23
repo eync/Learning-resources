@@ -47,6 +47,11 @@ Well made learning resources and articles.
 -   [ReactJS + Redux Basics](https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_) - Academind
 -   [Bulletproof React guide](https://github.com/alan2207/bulletproof-react)
 
+
+**Python**
+- [Flask + Jinja2](https://github.com/hackersandslackers/flask-jinja-tutorial)
+- [Jinja2 Guide](https://ttl255.com/jinja2-tutorial-part-1-introduction-and-variable-substitution/)
+
 **Database**
 
 - [Interactive SQL learning](https://sqlbolt.com/) - SQL bolt
