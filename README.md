@@ -2,7 +2,7 @@
 
 Well made learning resources and articles.
 
-**THEORIES**
+**THEORIES**  
 Rest API: 
 - [Rest API concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
 - [Rest API for beginners (easy to read)](https://mlsdev.com/blog/81-a-beginner-s-tutorial-for-understanding-restful-api)
