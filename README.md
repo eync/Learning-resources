@@ -39,7 +39,6 @@ Other:
 -   [Difference's between Var, Let and Const](https://dzone.com/articles/javascript-difference-between-var-let-and-const-ke)
 -   [Modern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 -   [The modern javascript tutorial](https://javascript.info/)
--   [Javascript DOM](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 -   [Freecodecamp Interactive Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
 **TS**
