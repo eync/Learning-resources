@@ -3,10 +3,17 @@
 Well made learning resources and articles.
 
 **THEORIES**
+Rest API: 
 - [Rest API concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
 - [Rest API for beginners (easy to read)](https://mlsdev.com/blog/81-a-beginner-s-tutorial-for-understanding-restful-api)
 - [Rest API by IBM](https://www.ibm.com/cloud/learn/rest-apis)
 - [Simple explanation of Rest API](https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-1-introduction-b4a072f8740f)
+
+API design:
+- [Think First, Code Later](https://blog.cheesecakelabs.com/blog/api-design-think-first-code-later/)
+
+Other:
+- [Twelve factor methodology](https://12factor.net/)
 
 **DESIGN**
 - [How to Apply a Color Palette to Your Design](https://www.youtube.com/watch?v=eXcKOqviLE0)
