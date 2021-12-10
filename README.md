@@ -58,6 +58,8 @@ Other:
 - [Basics of Jinja2](https://overiq.com/flask-101/basics-of-jinja-template-language/)
 - [Jinja2 Guide](https://ttl255.com/jinja2-tutorial-part-1-introduction-and-variable-substitution/)
 - [Flask + Jinja2](https://github.com/hackersandslackers/flask-jinja-tutorial)
+- [Python Development Master](https://pdm.fming.dev/)
+   - Works very similarly to npm but for python. 
 
 **Database**
 
