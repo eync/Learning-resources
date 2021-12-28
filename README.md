@@ -40,6 +40,7 @@ Other:
 -   [Modern Javascript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 -   [The modern javascript tutorial](https://javascript.info/)
 -   [Freecodecamp Interactive Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+-   [3 Reasons to Use Fewer JavaScript Libraries](https://javascript.plainenglish.io/3-reasons-to-use-fewer-javascript-libraries-7226b64868a4)
 
 **TS**
 
